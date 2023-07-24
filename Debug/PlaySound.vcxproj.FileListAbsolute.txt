@@ -1,0 +1,2 @@
+C:\Users\UsmaAslam\Desktop\PlaySound\Debug\PlaySound.exe
+C:\Users\UsmaAslam\Desktop\PlaySound\Debug\PlaySound.pdb
